@@ -1,6 +1,6 @@
 ---
 name: enhancement
-about: 개선을 위해 버그를 보고하세요
+about: 프로젝트에서 개선을 위한 내용을 추가하세요
 title: "enhancement: "
 labels: "🎉 enhancement"
 assignees: 'KKamJi98'
