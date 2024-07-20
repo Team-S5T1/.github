@@ -3,7 +3,7 @@ name: bug
 about: 개선을 위해 버그를 보고하세요
 title: "bug: "
 labels: "🚨 bug"
-assignees: ''
+assignees: 'KKamJi98'
 
 ---
 
