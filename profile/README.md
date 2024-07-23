@@ -21,11 +21,11 @@
 
 ## Skill Set
 
-- Backend => Spring Boot, Go, Python
-- Frontend => 미정
+- Backend => Spring Boot
+- Frontend => React
 - IaC => Terraform, Ansible
 - Deploy => Amazon EKS, S3, Lambda
-- Container Registry => ECR or Harbor
+- Container Registry => ECR
 - CI/CD => Jenkins, ArgoCD
 - AI => AWS Badrock(Claude 3.0 sonnet)
 - Monitoring => Prometheus, Grafana
