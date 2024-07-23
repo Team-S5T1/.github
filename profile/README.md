@@ -2,7 +2,7 @@
 
 > 문제풀이 service
 
-## 팀별 목표
+## 공동 목표
 
 - [ ] 사용자가 사진 캡처를 통해 문제에 대한 정보를 제공하면 해당 문제에 대한 답과 해설을 제공  
 - [ ] 사용자가 Exam-Master를 통해 질문했던 기록 저장 및 다시보기
@@ -30,27 +30,4 @@
 - AI => AWS Badrock(Claude 3.0 sonnet)
 - Monitoring => Prometheus, Grafana
 - Logging => EFK(Elasticsearch, Fluentd, Kibana) or Loki
-
-## Progress
-
-### Backend
-- [ ] ...
-
-### Frontend
-- [ ] ...
-
-### IaC
-- [ ] ...
-
-### Deploy
-- [ ] ...
-
-### CI/CD
-- [ ] ...
-
-### Monitoring
-- [ ] ...
-
-### Logging
-- [ ] ...
 
