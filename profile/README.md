@@ -8,7 +8,7 @@
 
 - Backend => Spring Boot
 - Frontend => React
-- IaC => Terraform, Ansible
+- IaC => Terraform
 - Deploy => Amazon EKS, S3, Route53, CloudFront
 - Container Registry => ECR
 - CI/CD => Jenkins, ArgoCD
