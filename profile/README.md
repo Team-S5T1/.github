@@ -1,5 +1,7 @@
 # Weasel 🔥🔥🔥
 
+> Bedrock 기반 문제 풀이 서비스
+
 ![image](https://github.com/user-attachments/assets/5fe252d0-2058-4b7a-9de1-f9b8684d3a2e)
 
 ## Skill Set
