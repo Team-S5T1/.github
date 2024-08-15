@@ -1,6 +1,6 @@
 # Weasel 🔥🔥🔥
 
-> Bedrock Claude 3.5 Foundation Model 기반 문제 풀이 서비스
+> Bedrock Claude Sonnet 3.5 Foundation Model 기반 문제 풀이 서비스
 
 ![image](https://github.com/user-attachments/assets/5fe252d0-2058-4b7a-9de1-f9b8684d3a2e)
 
@@ -25,7 +25,7 @@
 
 ## CI/CD Workflow
 
-![image](https://github.com/user-attachments/assets/6fd9736f-f329-4c2a-90a1-438e3a228f38)
+![image](https://github.com/user-attachments/assets/8ba5fa51-aee6-406c-80c3-5c38ed676c5a)
 
 ## Jenkins
 
