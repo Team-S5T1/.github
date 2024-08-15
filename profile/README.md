@@ -29,7 +29,7 @@
 
 ## Jenkins
 
-![image](https://github.com/user-attachments/assets/d5d95658-48e1-4581-82ff-ad068495f732)
+![image](https://github.com/user-attachments/assets/72c2cd75-4a80-4e36-b5e7-d9e26c4c2569)
 
 ## ArgoCD
 
