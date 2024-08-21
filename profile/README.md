@@ -42,8 +42,8 @@
 
 ## Load Balancer Logging
 
-![alt text](query_alb_log.png)  
 ![alt text](workflows_alb_logging.png)  
+![alt text](query_alb_log.png)  
 
 ## 프로젝트 일정 관리
 
