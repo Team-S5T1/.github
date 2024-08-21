@@ -19,7 +19,7 @@
 
 ![image](https://github.com/user-attachments/assets/58c227d8-b4e1-467b-9f4c-14d6df05af27)
 
-## Workflow
+## Bedrock Workflow
 
 ![image](https://github.com/user-attachments/assets/18d56c86-cdc5-4886-b844-faeed4410abd)
 
@@ -34,6 +34,16 @@
 ## ArgoCD
 
 ![image](https://github.com/user-attachments/assets/9f06af84-4201-44cf-af77-0243c9145382)
+
+## Cloudfront Logging
+
+![alt text](workflows_cloufront_logging.png)  
+![alt text](query_cloudfront_log.png)  
+
+## Load Balancer Logging
+
+![alt text](query_alb_log.png)  
+![alt text](workflows_alb_logging.png)  
 
 ## 프로젝트 일정 관리
 
