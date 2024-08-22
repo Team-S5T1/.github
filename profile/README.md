@@ -2,7 +2,7 @@
 
 > Bedrock Claude Sonnet 3.5 Foundation Model 기반 문제 풀이 서비스
 
-![image](https://github.com/user-attachments/assets/5fe252d0-2058-4b7a-9de1-f9b8684d3a2e)
+![image](https://github.com/user-attachments/assets/281374bb-1a76-4f7c-9b3a-285c0e243f92)
 
 ## Skill Set
 
@@ -12,7 +12,7 @@
 - Deploy => Amazon EKS, S3, Route53, CloudFront
 - Container Registry => ECR
 - CI/CD => Jenkins, ArgoCD
-- AI => AWS Badrock(Claude 3.0 sonnet)
+- AI => AWS Badrock(Claude 3.5 sonnet)
 - Monitoring => Prometheus, Grafana
 
 ## Infra Architecture
