@@ -2,6 +2,17 @@
 
 > Bedrock Claude Sonnet 3.5 Foundation Model 기반 문제 풀이 서비스
 
+## Skill Set
+
+- Backend => Spring Boot
+- Frontend => React
+- IaC => Terraform
+- Deploy => Amazon EKS, S3, Route53, CloudFront
+- Container Registry => ECR
+- CI/CD => Jenkins, ArgoCD
+- AI => AWS Badrock(Claude 3.5 sonnet)
+- Monitoring => Prometheus, Grafana
+  
 ## Main
 
 ![image](https://github.com/user-attachments/assets/281374bb-1a76-4f7c-9b3a-285c0e243f92)
@@ -19,18 +30,6 @@
 ### 한글 문제
 
 ![image](https://github.com/user-attachments/assets/a3b849e8-07b0-4935-a689-1db4a8fc3ab7)
-
-
-## Skill Set
-
-- Backend => Spring Boot
-- Frontend => React
-- IaC => Terraform
-- Deploy => Amazon EKS, S3, Route53, CloudFront
-- Container Registry => ECR
-- CI/CD => Jenkins, ArgoCD
-- AI => AWS Badrock(Claude 3.5 sonnet)
-- Monitoring => Prometheus, Grafana
 
 ## Infra Architecture
 
