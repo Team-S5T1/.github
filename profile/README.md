@@ -54,13 +54,13 @@
 
 ## Cloudfront Logging
 
-![alt text](workflows_cloufront_logging.png)  
-![alt text](query_cloudfront_log.png)  
+![workflows_cloufront_logging](https://github.com/user-attachments/assets/8f23d447-6a35-4640-90de-3f6e32f8e22a)
+![query_cloudfront_log](https://github.com/user-attachments/assets/8b35170c-8396-4521-958a-8d0e7bb79902)
 
 ## Load Balancer Logging
 
-![alt text](workflows_alb_logging.png)  
-![alt text](query_alb_log.png)  
+![workflows_alb_logging](https://github.com/user-attachments/assets/a6c1fb8a-a912-4019-8c09-c417e5801bbe)
+![query_alb_log](https://github.com/user-attachments/assets/cdf4fc33-abe9-44f2-ba2f-7079705bad9f)
 
 ## 프로젝트 일정 관리
 
